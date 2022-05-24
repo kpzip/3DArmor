@@ -1,0 +1,6 @@
+{
+	"parent": "item/armor_generic_leggings",
+	"textures": {
+		"layer0": "models/armor/iron_layer_2"
+	}
+}

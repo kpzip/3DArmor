@@ -1,0 +1,6 @@
+{
+	"parent": "item/armor_generic_helmet",
+	"textures": {
+		"layer0": "models/armor/netherite_layer_1"
+	}
+}
