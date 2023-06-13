@@ -1,6 +1,6 @@
 # To Install:
 
-download the folder and place it inside your resourcepack folder
+To Install, download the folder and place it inside your resource pack folder, and then select it in game.
 
 # License:
 
