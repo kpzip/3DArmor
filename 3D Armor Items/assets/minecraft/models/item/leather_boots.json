@@ -1,7 +1,7 @@
 {
 	"parent": "item/armor_generic_boots",
 	"textures": {
-		"layer0": "models/armor/leather_layer_1_overlay",
-		"layer1": "models/armor/leather_layer_1"
+		"layer0": "item/armor/leather_layer_1_overlay",
+		"layer1": "item/armor/leather_layer_1"
 	}
 }

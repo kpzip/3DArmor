@@ -1,6 +1,6 @@
 # To Install:
 
-download the folder and place it inside your resoursepack folder
+download the folder and place it inside your resourcepack folder
 
 #For usage in your own packs:
 

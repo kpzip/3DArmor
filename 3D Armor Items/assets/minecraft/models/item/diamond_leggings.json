@@ -1,6 +1,6 @@
 {
 	"parent": "item/armor_generic_leggings",
 	"textures": {
-		"layer0": "models/armor/diamond_layer_2"
+		"layer0": "item/armor/diamond_layer_2"
 	}
 }

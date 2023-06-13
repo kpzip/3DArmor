@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"layer0": "models/armor/netherite_layer_2",
-		"layer1": "models/armor/transparency"
+		"layer0": "item/armor/netherite_layer_2",
+		"layer1": "item/armor/transparency"
 	},
 	"elements": [
 		{
