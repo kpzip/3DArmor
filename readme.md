@@ -2,9 +2,9 @@
 
 download the folder and place it inside your resourcepack folder
 
-# For usage in your own packs:
+# License:
 
-Credit me if you use these models
+Licensed under the [MIT License](https://spdx.org/licenses/MIT.html?utm_source=blog.modrinth.com&utm_medium=referral&utm_campaign=beginner-s-guide-to-licensing-your-mods)
 
 # For Compatibility:
 
